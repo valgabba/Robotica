@@ -13,6 +13,7 @@
  */
 
 #include <NewPing.h>
+#define pippo 2
 
 #define __VERSION__   "1.0"
 #define TRIGGER_PIN   12 // Arduino pin tied to trigger pin on ping sensor.
