@@ -1,2 +1,3 @@
-# Robotica
-Firmware per il corso di robotica
+# Linefollower
+Robotica 18/19 corso introduttivo
+Costruzione di un Firmware per robot linefollower
